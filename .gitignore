@@ -1,0 +1,10 @@
+test_set
+train_set
+fetch_dataset.py
+test_set.cache
+train_set.cache
+yolov8n.pt
+runs
+Backup
+BAFMD_Dataset_Extracted.zip
+BAFMD_Dataset.zip
